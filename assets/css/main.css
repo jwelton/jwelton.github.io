@@ -1570,6 +1570,13 @@
 			animation: none !important;
 		}
 
+	figcaption {
+		font-size: 0.7em;
+		line-height: 1.5em;
+		margin: 0.1em 0em 1em 0em;
+		text-align: left;
+	}
+
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
@@ -1725,7 +1732,6 @@
 		.image.featured {
 			display: block;
 			width: 100%;
-			margin: 0 0 2em 0;
 		}
 
 		.image.left {
