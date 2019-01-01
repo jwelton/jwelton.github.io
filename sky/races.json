@@ -1,0 +1,1808 @@
+[
+  {
+    "race_summary": {
+      "name": "Maiden Plate (F & M)",
+      "course_name": "Vaal",
+      "age": "3YO plus",
+      "distance": "4f 214y",
+      "date": "2017-12-15",
+      "time": "10:45",
+      "ride_count": 14,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to Soft",
+      "has_handicap": false,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 5,
+        "horse": {
+          "name": "Cape Orchid",
+          "days_since_last_run": 24,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "412-12",
+        "handicap": "9-6",
+        "current_odds": "5/2"
+      },
+      {
+        "cloth_number": 1,
+        "horse": {
+          "name": "Osculation",
+          "days_since_last_run": 19,
+          "foaled": "2013-09-17",
+          "sex": "f"
+        },
+        "formsummary": "325433",
+        "handicap": "9-6",
+        "current_odds": "13/8"
+      },
+      {
+        "cloth_number": 6,
+        "horse": {
+          "name": "Casa De Var",
+          "days_since_last_run": 28,
+          "foaled": "2013-10-21",
+          "sex": "f"
+        },
+        "formsummary": "48-8191",
+        "handicap": "9-6",
+        "current_odds": "11/1"
+      },
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Madam Secretary",
+          "days_since_last_run": 21,
+          "foaled": "2013-08-08",
+          "sex": "f"
+        },
+        "formsummary": "226222",
+        "handicap": "9-6",
+        "current_odds": "17/2"
+      },
+      {
+        "cloth_number": 10,
+        "horse": {
+          "name": "Music Maker",
+          "days_since_last_run": 35,
+          "foaled": "2012-09-25",
+          "sex": "m"
+        },
+        "formsummary": "7467-4",
+        "handicap": "9-6",
+        "current_odds": "14/2"
+      },
+      {
+        "cloth_number": 13,
+        "horse": {
+          "name": "Twinkle Town",
+          "days_since_last_run": 35,
+          "foaled": "2013-09-30",
+          "sex": "m"
+        },
+        "formsummary": "3461",
+        "handicap": "9-6",
+        "current_odds": "14/2"
+      },
+      {
+        "cloth_number": 3,
+        "horse": {
+          "name": "Brighton Belle",
+          "days_since_last_run": 18,
+          "foaled": "2013-11-06",
+          "sex": "f"
+        },
+        "formsummary": "57687-",
+        "withdrawn": true,
+        "handicap": "9-6",
+        "current_odds": "33/1"
+      },
+      {
+        "cloth_number": 14,
+        "horse": {
+          "name": "Vivacious Vivian",
+          "days_since_last_run": 14,
+          "foaled": "2013-10-24",
+          "sex": "m"
+        },
+        "formsummary": "0-6",
+        "handicap": "9-6",
+        "current_odds": "28/1"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Cummings",
+      "course_name": "Montoya",
+      "age": "34Y",
+      "distance": "210Y",
+      "date": "01/01/2019",
+      "time": "16:47",
+      "ride_count": 15,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 20,
+        "horse": {
+          "name": "Rosalinda",
+          "days_since_last_run": 10,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "79099",
+        "handicap": "6-8",
+        "current_odds": "3/3"
+      },
+      {
+        "cloth_number": 15,
+        "horse": {
+          "name": "Nettie",
+          "days_since_last_run": 10,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "23688",
+        "handicap": "2-2",
+        "current_odds": "7/1"
+      },
+      {
+        "cloth_number": 14,
+        "horse": {
+          "name": "Small",
+          "days_since_last_run": 10,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "15109",
+        "handicap": "3-8",
+        "current_odds": "2/6"
+      },
+      {
+        "cloth_number": 20,
+        "horse": {
+          "name": "Liliana",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "11253",
+        "handicap": "6-4",
+        "current_odds": "9/6"
+      },
+      {
+        "cloth_number": 10,
+        "horse": {
+          "name": "Manuela",
+          "days_since_last_run": 10,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "38445",
+        "handicap": "7-5",
+        "current_odds": "5/6"
+      },
+      {
+        "cloth_number": 4,
+        "horse": {
+          "name": "Giles",
+          "days_since_last_run": 3,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "68721",
+        "handicap": "7-4",
+        "current_odds": "3/2"
+      },
+      {
+        "cloth_number": 1,
+        "horse": {
+          "name": "Kimberley",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "47158",
+        "handicap": "9-2",
+        "current_odds": "5/1"
+      },
+      {
+        "cloth_number": 20,
+        "horse": {
+          "name": "Boyd",
+          "days_since_last_run": 8,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "29849",
+        "handicap": "8-3",
+        "current_odds": "1/1"
+      },
+      {
+        "cloth_number": 4,
+        "horse": {
+          "name": "Helene",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "74671",
+        "handicap": "7-5",
+        "current_odds": "8/7"
+      },
+      {
+        "cloth_number": 6,
+        "horse": {
+          "name": "Moreno",
+          "days_since_last_run": 8,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "64118",
+        "handicap": "5-9",
+        "current_odds": "3/9"
+      },
+      {
+        "cloth_number": 14,
+        "horse": {
+          "name": "Vargas",
+          "days_since_last_run": 10,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "99433",
+        "handicap": "8-8",
+        "current_odds": "9/4"
+      },
+      {
+        "cloth_number": 8,
+        "horse": {
+          "name": "Newton",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "24191",
+        "handicap": "7-6",
+        "current_odds": "9/2"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Oliver",
+      "course_name": "Stout",
+      "age": "37Y",
+      "distance": "285Y",
+      "date": "01/01/2019",
+      "time": "20:45",
+      "ride_count": 13,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 19,
+        "horse": {
+          "name": "Alisa",
+          "days_since_last_run": 2,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "37109",
+        "handicap": "6-2",
+        "current_odds": "9/4"
+      },
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Jan",
+          "days_since_last_run": 3,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "34016",
+        "handicap": "1-2",
+        "current_odds": "6/9"
+      },
+      {
+        "cloth_number": 19,
+        "horse": {
+          "name": "Stein",
+          "days_since_last_run": 1,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "27068",
+        "handicap": "7-5",
+        "current_odds": "4/8"
+      },
+      {
+        "cloth_number": 7,
+        "horse": {
+          "name": "Hattie",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "39802",
+        "handicap": "5-9",
+        "current_odds": "8/9"
+      },
+      {
+        "cloth_number": 17,
+        "horse": {
+          "name": "Lowe",
+          "days_since_last_run": 2,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "62236",
+        "handicap": "8-5",
+        "current_odds": "8/7"
+      },
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Moody",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "22864",
+        "handicap": "3-1",
+        "current_odds": "9/4"
+      },
+      {
+        "cloth_number": 15,
+        "horse": {
+          "name": "Pearlie",
+          "days_since_last_run": 5,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "96717",
+        "handicap": "9-2",
+        "current_odds": "6/2"
+      },
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Simon",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "19255",
+        "handicap": "2-7",
+        "current_odds": "7/7"
+      },
+      {
+        "cloth_number": 2,
+        "horse": {
+          "name": "Miles",
+          "days_since_last_run": 11,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "92537",
+        "handicap": "7-8",
+        "current_odds": "6/6"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Pacheco",
+      "course_name": "Gay",
+      "age": "29Y",
+      "distance": "44Y",
+      "date": "01/01/2019",
+      "time": "15:42",
+      "ride_count": 20,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 18,
+        "horse": {
+          "name": "Rodriguez",
+          "days_since_last_run": 8,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "73756",
+        "handicap": "9-4",
+        "current_odds": "5/8"
+      },
+      {
+        "cloth_number": 11,
+        "horse": {
+          "name": "Coffey",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "68227",
+        "handicap": "1-3",
+        "current_odds": "6/5"
+      },
+      {
+        "cloth_number": 5,
+        "horse": {
+          "name": "Naomi",
+          "days_since_last_run": 11,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "86282",
+        "handicap": "9-7",
+        "current_odds": "1/2"
+      },
+      {
+        "cloth_number": 4,
+        "horse": {
+          "name": "Lillian",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "61651",
+        "handicap": "6-1",
+        "current_odds": "2/7"
+      },
+      {
+        "cloth_number": 17,
+        "horse": {
+          "name": "Anita",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "87747",
+        "handicap": "5-9",
+        "current_odds": "5/6"
+      },
+      {
+        "cloth_number": 2,
+        "horse": {
+          "name": "Paul",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "30283",
+        "handicap": "1-3",
+        "current_odds": "2/8"
+      },
+      {
+        "cloth_number": 1,
+        "horse": {
+          "name": "Thomas",
+          "days_since_last_run": 2,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "12704",
+        "handicap": "3-7",
+        "current_odds": "1/1"
+      },
+      {
+        "cloth_number": 3,
+        "horse": {
+          "name": "Sandoval",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "10485",
+        "handicap": "9-5",
+        "current_odds": "5/7"
+      },
+      {
+        "cloth_number": 2,
+        "horse": {
+          "name": "Wade",
+          "days_since_last_run": 11,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "42717",
+        "handicap": "3-3",
+        "current_odds": "8/7"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Willis",
+      "course_name": "Miles",
+      "age": "38Y",
+      "distance": "57Y",
+      "date": "01/01/2019",
+      "time": "18:03",
+      "ride_count": 12,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 20,
+        "horse": {
+          "name": "Monroe",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "81867",
+        "handicap": "1-1",
+        "current_odds": "4/4"
+      },
+      {
+        "cloth_number": 2,
+        "horse": {
+          "name": "Evangelina",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "16691",
+        "handicap": "5-2",
+        "current_odds": "5/3"
+      },
+      {
+        "cloth_number": 13,
+        "horse": {
+          "name": "Pansy",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "16253",
+        "handicap": "1-6",
+        "current_odds": "8/5"
+      },
+      {
+        "cloth_number": 7,
+        "horse": {
+          "name": "Cline",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "28706",
+        "handicap": "5-1",
+        "current_odds": "1/8"
+      },
+      {
+        "cloth_number": 20,
+        "horse": {
+          "name": "Francesca",
+          "days_since_last_run": 2,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "24105",
+        "handicap": "7-6",
+        "current_odds": "7/2"
+      },
+      {
+        "cloth_number": 10,
+        "horse": {
+          "name": "Dianne",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "93524",
+        "handicap": "3-7",
+        "current_odds": "2/2"
+      },
+      {
+        "cloth_number": 12,
+        "horse": {
+          "name": "Leanne",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "28369",
+        "handicap": "3-1",
+        "current_odds": "3/1"
+      },
+      {
+        "cloth_number": 7,
+        "horse": {
+          "name": "Kristin",
+          "days_since_last_run": 11,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "19140",
+        "handicap": "5-4",
+        "current_odds": "3/9"
+      },
+      {
+        "cloth_number": 11,
+        "horse": {
+          "name": "Carol",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "66392",
+        "handicap": "9-6",
+        "current_odds": "8/5"
+      },
+      {
+        "cloth_number": 1,
+        "horse": {
+          "name": "Callahan",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "42090",
+        "handicap": "5-7",
+        "current_odds": "4/8"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Stark",
+      "course_name": "Crawford",
+      "age": "26Y",
+      "distance": "194Y",
+      "date": "01/01/2019",
+      "time": "14:09",
+      "ride_count": 20,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 17,
+        "horse": {
+          "name": "Noelle",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "30655",
+        "handicap": "4-5",
+        "current_odds": "5/9"
+      },
+      {
+        "cloth_number": 16,
+        "horse": {
+          "name": "Logan",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "17986",
+        "handicap": "5-8",
+        "current_odds": "8/9"
+      },
+      {
+        "cloth_number": 12,
+        "horse": {
+          "name": "Bowman",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "84559",
+        "handicap": "4-3",
+        "current_odds": "5/8"
+      },
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Odom",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "56377",
+        "handicap": "2-2",
+        "current_odds": "8/3"
+      },
+      {
+        "cloth_number": 17,
+        "horse": {
+          "name": "Corina",
+          "days_since_last_run": 11,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "95731",
+        "handicap": "5-2",
+        "current_odds": "7/7"
+      },
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Edith",
+          "days_since_last_run": 3,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "45302",
+        "handicap": "4-3",
+        "current_odds": "4/5"
+      },
+      {
+        "cloth_number": 19,
+        "horse": {
+          "name": "Dean",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "20155",
+        "handicap": "7-8",
+        "current_odds": "5/8"
+      },
+      {
+        "cloth_number": 7,
+        "horse": {
+          "name": "Winnie",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "59574",
+        "handicap": "3-2",
+        "current_odds": "8/8"
+      },
+      {
+        "cloth_number": 6,
+        "horse": {
+          "name": "Candice",
+          "days_since_last_run": 10,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "67620",
+        "handicap": "8-6",
+        "current_odds": "2/3"
+      },
+      {
+        "cloth_number": 16,
+        "horse": {
+          "name": "Bolton",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "66878",
+        "handicap": "6-5",
+        "current_odds": "7/4"
+      },
+      {
+        "cloth_number": 17,
+        "horse": {
+          "name": "Wilkinson",
+          "days_since_last_run": 1,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "87190",
+        "handicap": "5-5",
+        "current_odds": "6/5"
+      },
+      {
+        "cloth_number": 2,
+        "horse": {
+          "name": "Sadie",
+          "days_since_last_run": 11,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "97764",
+        "handicap": "2-8",
+        "current_odds": "4/4"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Wolf",
+      "course_name": "Christensen",
+      "age": "38Y",
+      "distance": "279Y",
+      "date": "01/01/2019",
+      "time": "16:36",
+      "ride_count": 7,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 4,
+        "horse": {
+          "name": "Huffman",
+          "days_since_last_run": 8,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "69529",
+        "handicap": "9-4",
+        "current_odds": "1/5"
+      },
+      {
+        "cloth_number": 16,
+        "horse": {
+          "name": "Sonia",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "40063",
+        "handicap": "2-8",
+        "current_odds": "9/8"
+      },
+      {
+        "cloth_number": 7,
+        "horse": {
+          "name": "Fran",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "18591",
+        "handicap": "6-7",
+        "current_odds": "3/8"
+      },
+      {
+        "cloth_number": 14,
+        "horse": {
+          "name": "Sawyer",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "14686",
+        "handicap": "8-2",
+        "current_odds": "7/7"
+      },
+      {
+        "cloth_number": 4,
+        "horse": {
+          "name": "Woodard",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "38496",
+        "handicap": "8-8",
+        "current_odds": "5/5"
+      },
+      {
+        "cloth_number": 18,
+        "horse": {
+          "name": "John",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "31395",
+        "handicap": "9-9",
+        "current_odds": "8/2"
+      },
+      {
+        "cloth_number": 1,
+        "horse": {
+          "name": "Valenzuela",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "46691",
+        "handicap": "1-7",
+        "current_odds": "9/6"
+      },
+      {
+        "cloth_number": 1,
+        "horse": {
+          "name": "Deleon",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "83185",
+        "handicap": "3-8",
+        "current_odds": "4/4"
+      },
+      {
+        "cloth_number": 5,
+        "horse": {
+          "name": "Catherine",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "80104",
+        "handicap": "4-6",
+        "current_odds": "6/9"
+      },
+      {
+        "cloth_number": 19,
+        "horse": {
+          "name": "Lloyd",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "14484",
+        "handicap": "3-9",
+        "current_odds": "7/4"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Hernandez",
+      "course_name": "Keller",
+      "age": "35Y",
+      "distance": "147Y",
+      "date": "01/01/2019",
+      "time": "16:09",
+      "ride_count": 19,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 12,
+        "horse": {
+          "name": "Beck",
+          "days_since_last_run": 10,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "85820",
+        "handicap": "9-5",
+        "current_odds": "4/5"
+      },
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Christa",
+          "days_since_last_run": 10,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "35794",
+        "handicap": "3-8",
+        "current_odds": "3/6"
+      },
+      {
+        "cloth_number": 12,
+        "horse": {
+          "name": "Mendoza",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "35638",
+        "handicap": "5-2",
+        "current_odds": "9/9"
+      },
+      {
+        "cloth_number": 20,
+        "horse": {
+          "name": "Natalia",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "67007",
+        "handicap": "2-1",
+        "current_odds": "1/1"
+      },
+      {
+        "cloth_number": 17,
+        "horse": {
+          "name": "Maritza",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "93188",
+        "handicap": "6-5",
+        "current_odds": "8/8"
+      },
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Marsha",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "29119",
+        "handicap": "7-1",
+        "current_odds": "3/9"
+      },
+      {
+        "cloth_number": 6,
+        "horse": {
+          "name": "Pitts",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "57490",
+        "handicap": "6-3",
+        "current_odds": "8/8"
+      },
+      {
+        "cloth_number": 18,
+        "horse": {
+          "name": "Dominique",
+          "days_since_last_run": 1,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "23566",
+        "handicap": "4-7",
+        "current_odds": "9/4"
+      },
+      {
+        "cloth_number": 16,
+        "horse": {
+          "name": "Graves",
+          "days_since_last_run": 1,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "84704",
+        "handicap": "4-7",
+        "current_odds": "5/8"
+      },
+      {
+        "cloth_number": 15,
+        "horse": {
+          "name": "Young",
+          "days_since_last_run": 5,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "98524",
+        "handicap": "4-8",
+        "current_odds": "4/9"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Mclean",
+      "course_name": "Bender",
+      "age": "30Y",
+      "distance": "378Y",
+      "date": "01/01/2019",
+      "time": "14:46",
+      "ride_count": 9,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 3,
+        "horse": {
+          "name": "Harrington",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "50177",
+        "handicap": "9-3",
+        "current_odds": "2/9"
+      },
+      {
+        "cloth_number": 4,
+        "horse": {
+          "name": "Kristi",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "16205",
+        "handicap": "3-9",
+        "current_odds": "8/1"
+      },
+      {
+        "cloth_number": 4,
+        "horse": {
+          "name": "English",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "29303",
+        "handicap": "2-9",
+        "current_odds": "1/8"
+      },
+      {
+        "cloth_number": 16,
+        "horse": {
+          "name": "Webb",
+          "days_since_last_run": 10,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "51585",
+        "handicap": "4-2",
+        "current_odds": "5/8"
+      },
+      {
+        "cloth_number": 2,
+        "horse": {
+          "name": "Natasha",
+          "days_since_last_run": 3,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "25587",
+        "handicap": "1-4",
+        "current_odds": "9/3"
+      },
+      {
+        "cloth_number": 2,
+        "horse": {
+          "name": "Pittman",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "73322",
+        "handicap": "9-3",
+        "current_odds": "3/9"
+      },
+      {
+        "cloth_number": 4,
+        "horse": {
+          "name": "Anastasia",
+          "days_since_last_run": 1,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "13920",
+        "handicap": "8-6",
+        "current_odds": "8/4"
+      },
+      {
+        "cloth_number": 5,
+        "horse": {
+          "name": "Isabella",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "74380",
+        "handicap": "4-5",
+        "current_odds": "3/5"
+      },
+      {
+        "cloth_number": 11,
+        "horse": {
+          "name": "Grace",
+          "days_since_last_run": 5,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "99587",
+        "handicap": "5-5",
+        "current_odds": "1/6"
+      },
+      {
+        "cloth_number": 2,
+        "horse": {
+          "name": "Kristie",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "74610",
+        "handicap": "2-6",
+        "current_odds": "9/9"
+      },
+      {
+        "cloth_number": 13,
+        "horse": {
+          "name": "Patrice",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "38084",
+        "handicap": "4-8",
+        "current_odds": "8/2"
+      },
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Warner",
+          "days_since_last_run": 10,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "86310",
+        "handicap": "4-6",
+        "current_odds": "7/2"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Norris",
+      "course_name": "Allison",
+      "age": "28Y",
+      "distance": "398Y",
+      "date": "01/01/2019",
+      "time": "20:40",
+      "ride_count": 1,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 8,
+        "horse": {
+          "name": "Juanita",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "28712",
+        "handicap": "1-1",
+        "current_odds": "1/9"
+      },
+      {
+        "cloth_number": 2,
+        "horse": {
+          "name": "Erma",
+          "days_since_last_run": 11,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "31027",
+        "handicap": "1-6",
+        "current_odds": "8/9"
+      },
+      {
+        "cloth_number": 8,
+        "horse": {
+          "name": "Trujillo",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "82093",
+        "handicap": "3-3",
+        "current_odds": "4/8"
+      },
+      {
+        "cloth_number": 14,
+        "horse": {
+          "name": "Alana",
+          "days_since_last_run": 1,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "59905",
+        "handicap": "8-9",
+        "current_odds": "7/5"
+      },
+      {
+        "cloth_number": 6,
+        "horse": {
+          "name": "Mccormick",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "73771",
+        "handicap": "8-5",
+        "current_odds": "6/7"
+      },
+      {
+        "cloth_number": 12,
+        "horse": {
+          "name": "Marilyn",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "54619",
+        "handicap": "4-7",
+        "current_odds": "6/2"
+      },
+      {
+        "cloth_number": 10,
+        "horse": {
+          "name": "Reeves",
+          "days_since_last_run": 8,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "81118",
+        "handicap": "5-9",
+        "current_odds": "9/5"
+      },
+      {
+        "cloth_number": 7,
+        "horse": {
+          "name": "Brandi",
+          "days_since_last_run": 1,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "59787",
+        "handicap": "6-5",
+        "current_odds": "1/8"
+      },
+      {
+        "cloth_number": 14,
+        "horse": {
+          "name": "Jimmie",
+          "days_since_last_run": 5,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "98574",
+        "handicap": "6-5",
+        "current_odds": "4/9"
+      },
+      {
+        "cloth_number": 6,
+        "horse": {
+          "name": "Madge",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "51020",
+        "handicap": "1-4",
+        "current_odds": "3/8"
+      },
+      {
+        "cloth_number": 20,
+        "horse": {
+          "name": "Priscilla",
+          "days_since_last_run": 8,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "72917",
+        "handicap": "3-2",
+        "current_odds": "3/7"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Heath",
+      "course_name": "Roth",
+      "age": "26Y",
+      "distance": "235Y",
+      "date": "01/01/2019",
+      "time": "20:03",
+      "ride_count": 14,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 7,
+        "horse": {
+          "name": "Farmer",
+          "days_since_last_run": 11,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "58935",
+        "handicap": "2-3",
+        "current_odds": "1/9"
+      },
+      {
+        "cloth_number": 19,
+        "horse": {
+          "name": "Hansen",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "84001",
+        "handicap": "4-9",
+        "current_odds": "5/1"
+      },
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Kathleen",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "16894",
+        "handicap": "2-7",
+        "current_odds": "9/9"
+      },
+      {
+        "cloth_number": 15,
+        "horse": {
+          "name": "Judith",
+          "days_since_last_run": 5,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "22135",
+        "handicap": "1-3",
+        "current_odds": "6/8"
+      },
+      {
+        "cloth_number": 11,
+        "horse": {
+          "name": "Whitley",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "91558",
+        "handicap": "6-3",
+        "current_odds": "8/6"
+      },
+      {
+        "cloth_number": 13,
+        "horse": {
+          "name": "Molina",
+          "days_since_last_run": 8,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "60151",
+        "handicap": "1-6",
+        "current_odds": "6/8"
+      },
+      {
+        "cloth_number": 2,
+        "horse": {
+          "name": "Sims",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "60888",
+        "handicap": "4-3",
+        "current_odds": "7/3"
+      },
+      {
+        "cloth_number": 14,
+        "horse": {
+          "name": "Marianne",
+          "days_since_last_run": 11,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "57740",
+        "handicap": "7-5",
+        "current_odds": "7/5"
+      },
+      {
+        "cloth_number": 1,
+        "horse": {
+          "name": "Clarke",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "29360",
+        "handicap": "5-1",
+        "current_odds": "5/4"
+      },
+      {
+        "cloth_number": 20,
+        "horse": {
+          "name": "Dee",
+          "days_since_last_run": 5,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "29609",
+        "handicap": "6-1",
+        "current_odds": "6/9"
+      },
+      {
+        "cloth_number": 12,
+        "horse": {
+          "name": "Penelope",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "44783",
+        "handicap": "2-7",
+        "current_odds": "6/2"
+      },
+      {
+        "cloth_number": 10,
+        "horse": {
+          "name": "Fanny",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "18475",
+        "handicap": "6-4",
+        "current_odds": "4/1"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Ramirez",
+      "course_name": "Cantrell",
+      "age": "22Y",
+      "distance": "175Y",
+      "date": "01/01/2019",
+      "time": "16:55",
+      "ride_count": 10,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Ramsey",
+          "days_since_last_run": 1,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "96436",
+        "handicap": "4-1",
+        "current_odds": "4/9"
+      },
+      {
+        "cloth_number": 10,
+        "horse": {
+          "name": "Loraine",
+          "days_since_last_run": 1,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "89045",
+        "handicap": "1-1",
+        "current_odds": "8/6"
+      },
+      {
+        "cloth_number": 13,
+        "horse": {
+          "name": "Day",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "98040",
+        "handicap": "3-1",
+        "current_odds": "8/9"
+      },
+      {
+        "cloth_number": 12,
+        "horse": {
+          "name": "Harvey",
+          "days_since_last_run": 11,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "43682",
+        "handicap": "4-1",
+        "current_odds": "1/1"
+      },
+      {
+        "cloth_number": 17,
+        "horse": {
+          "name": "Gilbert",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "66208",
+        "handicap": "6-7",
+        "current_odds": "6/3"
+      },
+      {
+        "cloth_number": 19,
+        "horse": {
+          "name": "Richard",
+          "days_since_last_run": 6,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "55486",
+        "handicap": "4-8",
+        "current_odds": "4/6"
+      },
+      {
+        "cloth_number": 19,
+        "horse": {
+          "name": "Darlene",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "59392",
+        "handicap": "4-3",
+        "current_odds": "8/5"
+      },
+      {
+        "cloth_number": 20,
+        "horse": {
+          "name": "James",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "80618",
+        "handicap": "3-4",
+        "current_odds": "1/9"
+      },
+      {
+        "cloth_number": 17,
+        "horse": {
+          "name": "Sharpe",
+          "days_since_last_run": 4,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "39909",
+        "handicap": "6-4",
+        "current_odds": "8/9"
+      }
+    ]
+  },
+  {
+    "race_summary": {
+      "name": "Steele",
+      "course_name": "Cardenas",
+      "age": "37Y",
+      "distance": "47Y",
+      "date": "01/01/2019",
+      "time": "19:53",
+      "ride_count": 15,
+      "race_stage": "WEIGHEDIN",
+      "going": "Good to soft",
+      "has_handicap": true,
+      "hidden": false
+    },
+    "rides": [
+      {
+        "cloth_number": 11,
+        "horse": {
+          "name": "Donovan",
+          "days_since_last_run": 5,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "98283",
+        "handicap": "7-3",
+        "current_odds": "3/6"
+      },
+      {
+        "cloth_number": 11,
+        "horse": {
+          "name": "Elnora",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "28134",
+        "handicap": "2-8",
+        "current_odds": "9/6"
+      },
+      {
+        "cloth_number": 16,
+        "horse": {
+          "name": "Darla",
+          "days_since_last_run": 12,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "57162",
+        "handicap": "4-8",
+        "current_odds": "4/8"
+      },
+      {
+        "cloth_number": 8,
+        "horse": {
+          "name": "Josephine",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "30897",
+        "handicap": "1-5",
+        "current_odds": "5/7"
+      },
+      {
+        "cloth_number": 10,
+        "horse": {
+          "name": "Padilla",
+          "days_since_last_run": 7,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "36890",
+        "handicap": "6-8",
+        "current_odds": "9/8"
+      },
+      {
+        "cloth_number": 12,
+        "horse": {
+          "name": "Dunlap",
+          "days_since_last_run": 1,
+          "foaled": "2013-09-28",
+          "sex": "m"
+        },
+        "formsummary": "71133",
+        "handicap": "6-1",
+        "current_odds": "6/5"
+      },
+      {
+        "cloth_number": 9,
+        "horse": {
+          "name": "Martinez",
+          "days_since_last_run": 9,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "27937",
+        "handicap": "1-3",
+        "current_odds": "1/6"
+      },
+      {
+        "cloth_number": 17,
+        "horse": {
+          "name": "Twila",
+          "days_since_last_run": 1,
+          "foaled": "2013-09-28",
+          "sex": "f"
+        },
+        "formsummary": "60266",
+        "handicap": "1-8",
+        "current_odds": "2/4"
+      }
+    ]
+  }
+]
